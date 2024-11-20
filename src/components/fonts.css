@@ -1,0 +1,41 @@
+      
+  
+  @font-face {
+    font-family:'ff-type';
+    src: url('./fonts/AtypTEST-VariableVF-BF6572712448914.ttf');
+  }
+  @font-face {
+    font-family:'ff-Lgt';
+    src: url('./fonts/AtypDisplay-Light.ttf');
+  }
+  @font-face {
+    font-family:'ff-Regular';
+    src: url('./fonts/AtypDisplay-Regular.ttf');
+  }
+  @font-face {
+    font-family:'ff-MD';
+    src: url('./fonts/AtypDisplay-Medium.ttf');
+  }
+  @font-face {
+    font-family:'ff-SB';
+    src: url('./fonts/AtypDisplay-Semibold.ttf');
+  }
+.ff-Regular{
+  font-family: 'ff-Regular';
+}
+.ff-MD{
+  font-family: 'ff-MD';
+}
+  .ff-Lgt{
+    font-family: 'ff-Lgt';
+  }
+ 
+  .ff-type{
+    font-family: 'ff-type';
+  }
+ 
+ 
+  .ff-SB{
+    font-family: 'ff-SB';
+  }
+ 
