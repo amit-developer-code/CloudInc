@@ -13,7 +13,7 @@ export default function Home() {
                     <div className="row justify-between items-center">
                         <div className="col-md-5">
                             <div>
-                                <p className='ff-type sm:text-[50px] text-[40px] text-[#151515] font-[500] sm:leading-[65px] leading-[50px]'>You run your <span className="text-[#E0AA63]">Business.</span> We’ll handle your <span className="text-[#E0AA63]">Finances.</span></p>
+                                <p className='ff-type sm:text-[50px] text-[40px] text-[#151515] font-[500] sm:leading-[65px] leading-[50px]'>You run your <span className="text-[#E0AA63]">Business.</span> We&apos;ll handle your <span className="text-[#E0AA63]">Finances.</span></p>
 
                                 <p className='ff-Regular sm:text-[14px] text-[12px] text-[#212121] font-[100] leading-[20px]'>The stressful days of do-it-yourself finances are over. Cloud Inc. does your book keeping and taxes for you—so you can focus on running your business.</p>
 
@@ -395,7 +395,7 @@ export default function Home() {
                                     />
                                 </div>
                                 <div className="pt-6 sm:pb-0 pb-4">
-                                    <p className='ff-SB text-[#0D0D0D] sm:text-[22px] text-[18px] leading-[20px] sm:leading-[30px]  mb-0'>How to Deal with Inflation's Effects on Your Small Business</p>
+                                    <p className='ff-SB text-[#0D0D0D] sm:text-[22px] text-[18px] leading-[20px] sm:leading-[30px]  mb-0'>How to Deal with Inflation&apos;s Effects on Your Small Business</p>
                                     <p className='ff-Regular sm:text-[15px] text-[14px] text-[#4F4F4F]  sm:leading-[25px] leading-[20px] sm:pt-6 pt-3'>A year end package with everything you need to file comes standard with Cloud Inc. Upgrade your plan, and cross even more off your to-do list. With Premium, you get expert tax prep, filing, and year-round tax advisory support.</p>
 
                                     <div className="sm:py-6">
@@ -417,7 +417,7 @@ export default function Home() {
                                     />
                                 </div>
                                 <div className="pt-6 sm:pb-0 pb-4">
-                                    <p className='ff-SB text-[#0D0D0D] sm:text-[22px] text-[18px] leading-[20px] sm:leading-[30px]  mb-0'>How to Deal with Inflation's Effects on Your Small Business</p>
+                                    <p className='ff-SB text-[#0D0D0D] sm:text-[22px] text-[18px] leading-[20px] sm:leading-[30px]  mb-0'>How to Deal with Inflation&apos;s Effects on Your Small Business</p>
                                     <p className='ff-Regular sm:text-[15px] text-[14px] text-[#4F4F4F]  sm:leading-[25px] leading-[20px] sm:pt-6 pt-3'>A year end package with everything you need to file comes standard with Cloud Inc. Upgrade your plan, and cross even more off your to-do list. With Premium, you get expert tax prep, filing, and year-round tax advisory support.</p>
 
                                     <div className="sm:py-6 py-3">
@@ -439,7 +439,7 @@ export default function Home() {
                                     />
                                 </div>
                                 <div className="pt-6 sm:pb-0 pb-4">
-                                    <p className='ff-SB text-[#0D0D0D] sm:text-[22px] text-[18px] leading-[20px] sm:leading-[30px]  mb-0'>How to Deal with Inflation's Effects on Your Small Business</p>
+                                    <p className='ff-SB text-[#0D0D0D] sm:text-[22px] text-[18px] leading-[20px] sm:leading-[30px]  mb-0'>How to Deal with Inflation&apos;s Effects on Your Small Business</p>
                                     <p className='ff-Regular sm:text-[15px] text-[14px] text-[#4F4F4F]  sm:leading-[25px] leading-[20px] sm:pt-6 pt-3'>A year end package with everything you need to file comes standard with Cloud Inc. Upgrade your plan, and cross even more off your to-do list. With Premium, you get expert tax prep, filing, and year-round tax advisory support.</p>
 
                                     <div className="sm:py-6 py-3">
